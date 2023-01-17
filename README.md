@@ -12,9 +12,11 @@
 I'm an ios developer. 
 
 <br><br>
-blog : https://www.hakanyasar.co/
+* blog : https://www.hakanyasar.co/
 <br><br>
-github: https://github.com/hakanyasar
+* github: https://github.com/hakanyasar
 <br><br>
-linkedln: https://www.linkedin.com/in/hkn-yasar/
-<br><br>
+* linkedln: https://www.linkedin.com/in/hkn-yasar/
+<br><br><br><br>
+***
+2023 hy

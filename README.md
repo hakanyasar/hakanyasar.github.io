@@ -16,6 +16,7 @@ I'm an ios developer.
 <p align="center">
 [hakanyasar.co](https://www.hakanyasar.co/)
 </p>
+[hakanyasar.co](https://www.hakanyasar.co/)
 <br>
 <p align="center">
 github: [github.com/hakanyasar](https://github.com/hakanyasar)

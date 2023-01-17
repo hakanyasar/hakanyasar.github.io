@@ -16,7 +16,7 @@ I'm an ios developer.
 
 <br><br>
 
-[hakanyasar.co](https://www.hakanyasar.co/)
+blog: [hakanyasar.co](https://www.hakanyasar.co/)
 
 <br>
 

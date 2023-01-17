@@ -1,3 +1,4 @@
+#hi, I'm hakan yasar
 <br><br>
 
 <p align="center">
@@ -6,13 +7,13 @@
   
 <br>
 <h3 align="center">
-I'm an ios developer. 
+I'm an ios developer. I love solving problems that occured during development process. I'm curious about new solutions, ideas and creative things. I'm passionate about minimalism and user experience in every details our lives. 
 </h3>
 
 <br><br>
 
 
-<h3 align="center">blog: <a href="https://www.hakanyasar.co/" align="center">hakanyasar.co/</a> </h3>
+<h3 align="center">blog: <a href="https://www.hakanyasar.co/" align="center">hakanyasar.co</a> </h3>
 <h3 align="center">github: <a href="https://github.com/hakanyasar" align="center">github.com/hakanyasar</a> </h3>
 <h3 align="center">linkedin: <a href="https://www.linkedin.com/in/hkn-yasar/" align="center">linkedin.com/in/hkn-yasar</a> </h3>
 <br><br><br><br>

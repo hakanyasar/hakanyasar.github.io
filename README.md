@@ -5,7 +5,7 @@
 </p>
 
 <br><br>  
-<h2 align="center">hi, I'm hakan yasar</h2>  
+<p><h2 align="center">hi, I'm hakan yasar</h2></p>  
 <br><br>
 
 <h3 align="center">

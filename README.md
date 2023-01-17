@@ -12,19 +12,17 @@ I'm an ios developer.
 
 <br><br>
 
-<p align="center">
 
-<h3>blog: <a href="https://www.hakanyasar.co/" align="center">hakanyasar.co/</a> </h3>
 
-<br><br>
-
-<h3>github: <a href="https://github.com/hakanyasar" align="center">github.com/hakanyasar</a> </h3>
+<center> <h3>blog: <a href="https://www.hakanyasar.co/" align="center">hakanyasar.co/</a> </h3> </center>
 
 <br><br>
 
-<h3>linkedin: <a href="https://www.linkedin.com/in/hkn-yasar/" align="center">linkedin.com/in/hkn-yasar</a> </h3>
+<center> <h3>github: <a href="https://github.com/hakanyasar" align="center">github.com/hakanyasar</a> </h3> </center>
 
-</p>  
+<br><br>
+
+<center> <h3>linkedin: <a href="https://www.linkedin.com/in/hkn-yasar/" align="center">linkedin.com/in/hkn-yasar</a> </h3> </center>
   
 <br><br><br><br>
 

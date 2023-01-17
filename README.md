@@ -12,11 +12,9 @@ I'm an ios developer.
 <br><br>
 
 
-<h3 align="center">blog: <a href="https://www.hakanyasar.co/" align="center">hakanyasar.co/</a> </h3>
-<br>
-<h3 align="center">github: <a href="https://github.com/hakanyasar" align="center">github.com/hakanyasar</a> </h3>
-<br>
-<h3 align="center">linkedin: <a href="https://www.linkedin.com/in/hkn-yasar/" align="center">linkedin.com/in/hkn-yasar</a> </h3>
+* <h3 align="center">blog: <a href="https://www.hakanyasar.co/" align="center">hakanyasar.co/</a> </h3>
+* <h3 align="center">github: <a href="https://github.com/hakanyasar" align="center">github.com/hakanyasar</a> </h3>
+* <h3 align="center">linkedin: <a href="https://www.linkedin.com/in/hkn-yasar/" align="center">linkedin.com/in/hkn-yasar</a> </h3>
 <br><br><br><br>
 
 ---

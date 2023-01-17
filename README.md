@@ -31,4 +31,4 @@ I'm an ios developer.
 <br><br><br><br>
 
 ***
-2023 hy
+2023 © hakanyasar

@@ -15,11 +15,11 @@ I'm an ios developer.
 <p align="center">
 blog : [https://www.hakanyasar.co/](https://www.hakanyasar.co/)
 </p>
-<br><br>
+<br>
 <p align="center">
 github: [https://github.com/hakanyasar](https://github.com/hakanyasar)
 </p>
-<br><br>
+<br>
 <p align="center">
 linkedln: [https://www.linkedin.com/in/hkn-yasar/](https://www.linkedin.com/in/hkn-yasar/)
 </p>

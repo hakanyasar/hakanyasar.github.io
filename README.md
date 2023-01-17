@@ -18,15 +18,15 @@ I'm an ios developer.
 
 <p align="center">
 
-blog: <a href="https://www.hakanyasar.co/">[Link 1](https://www.hakanyasar.co/)</a>
+blog: <a href="https://www.hakanyasar.co/">[https://www.hakanyasar.co/]</a>
 
-<br>
+<br><br>
 
-github: [github.com/hakanyasar](https://github.com/hakanyasar)
+github: <a href="https://github.com/hakanyasar">[github.com/hakanyasar]</a>
 
-<br>
+<br><br>
 
-linkedin: [linkedin.com/in/hkn-yasar/](https://www.linkedin.com/in/hkn-yasar/)
+linkedin: <a href="https://www.linkedin.com/in/hkn-yasar/">[linkedin.com/in/hkn-yasar/]</a>
 
 </p>  
   

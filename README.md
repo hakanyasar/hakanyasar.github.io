@@ -6,7 +6,7 @@
   
 <br>
 <h3 align="center">
-I'm an ios developer. I love solving some kind of problems that occured during development process. I'm curious about new solutions, ideas and creative things. I'm also passionate about minimalism and user experience in every details our lives. 
+I'm an ios developer. I love solving some kind of problems that occured during development process. I'm curious about new solutions, ideas and creative things. I'm also passionate about minimalism and user experience not only development but also in every details our lives. 
 </h3>
 
 <br><br>

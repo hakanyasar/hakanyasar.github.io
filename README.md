@@ -1,4 +1,3 @@
-# hi, I'm hakan yasar
 <br><br>
 
 <p align="center">

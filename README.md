@@ -7,9 +7,9 @@
 </p>
   
 <br>
-<p align="center">
+<h3 align="center">
 I'm an ios developer. 
-</p>
+</h3>
 
 
 <br><br>

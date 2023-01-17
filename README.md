@@ -16,7 +16,9 @@ I'm an ios developer.
 
 <br><br>
 
-blog: [hakanyasar.co](https://www.hakanyasar.co/)
+<p align="center">
+
+blog: <a href="https://www.hakanyasar.co/">[Link 1](https://www.hakanyasar.co/)</a>
 
 <br>
 
@@ -26,6 +28,8 @@ github: [github.com/hakanyasar](https://github.com/hakanyasar)
 
 linkedin: [linkedin.com/in/hkn-yasar/](https://www.linkedin.com/in/hkn-yasar/)
 
+</p>  
+  
 <br><br><br><br>
 
 ***

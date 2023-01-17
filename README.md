@@ -5,12 +5,12 @@
 </p>
 
 <br><br>  
-<h3 align="center">hi, I'm hakan yasar</h3>  
+<h2 align="center">hi, I'm hakan yasar</h2>  
 <br><br>
 
-<h4 align="center">
+<h3 align="center">
 I'm an ios developer. I love solving some kind of problems that occured during development process. I'm curious about new solutions, ideas and creative things. I'm passionate about minimalism and user experience not only on development but also in every details our lives. 
-</h4>
+</h3>
 
 <br><br>
 

@@ -14,15 +14,15 @@ I'm an ios developer.
 
 <br><br>
 <p align="center">
-blog : https://www.hakanyasar.co/
+blog : <https://www.hakanyasar.co/>
 </p>
 <br>
 <p align="center">
-github: https://github.com/hakanyasar
+github: <https://github.com/hakanyasar>
 </p>
 <br>
 <p align="center">
-linkedln: https://www.linkedin.com/in/hkn-yasar/
+linkedln: <https://www.linkedin.com/in/hkn-yasar/>
 </p>
 <br><br><br><br>
 

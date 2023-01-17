@@ -15,17 +15,17 @@ I'm an ios developer.
 
 
 <br><br>
-<h3 align="center">
-(https://www.hakanyasar.co/)
-</h3>
+
+[hakanyasar.co](https://www.hakanyasar.co/)
+
 <br>
-<h3 align="center">
+
 github: [github.com/hakanyasar](https://github.com/hakanyasar)
-</h3>
+
 <br>
-<h3 align="center">
+
 linkedin: [linkedin.com/in/hkn-yasar/](https://www.linkedin.com/in/hkn-yasar/)
-</h3>
+
 <br><br><br><br>
 
 ***

@@ -16,15 +16,15 @@ I'm an ios developer.
 
 <p align="center">
 
-<h3>blog:</h3> <a href="https://www.hakanyasar.co/">[https://www.hakanyasar.co/]</a>
+<h3>blog: <a href="https://www.hakanyasar.co/">[https://www.hakanyasar.co/]</a> </h3>
 
 <br><br>
 
-<h3>github:</h3> <a href="https://github.com/hakanyasar">[github.com/hakanyasar]</a>
+<h3>github: <a href="https://github.com/hakanyasar">[github.com/hakanyasar]</a> </h3>
 
 <br><br>
 
-<h3>linkedin:</h3> <a href="https://www.linkedin.com/in/hkn-yasar/">[linkedin.com/in/hkn-yasar/]</a>
+<h3>linkedin: <a href="https://www.linkedin.com/in/hkn-yasar/">[linkedin.com/in/hkn-yasar/]</a> </h3>
 
 </p>  
   

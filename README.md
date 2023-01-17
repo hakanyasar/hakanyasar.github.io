@@ -1,6 +1,4 @@
-
-
-
+<br><br>
 # hi, I'm hakan yasar
 <br><br>
 

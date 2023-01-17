@@ -5,7 +5,7 @@
 </p>
 
 <br><br>  
-<p align="center" style="font-size:70px;">hi, I'm hakan yasar</p> 
+<p align="center" style="font-size:70px" style="color:blue">hi, I'm hakan yasar</p> 
 <br><br>
 
 <h3 align="center">

@@ -9,7 +9,7 @@
 </p>
 
 <br><br>
-<h3 align="center" style="color:#C9D1D9;">hi, I'm hakan,</h3> 
+<h3 align="center" style="color:#C9D1D9;">hi, I'm hakan</h3> 
 <br>
 
 <h3 align="center" style="color:#C9D1D9;">

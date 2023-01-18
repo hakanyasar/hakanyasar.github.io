@@ -20,5 +20,6 @@ I'm an ios developer. I love solving some kind of problems that occured during d
 <h3 align="center">linkedin: <a href="https://www.linkedin.com/in/hkn-yasar/" align="center">linkedin.com/in/hkn-yasar</a> </h3>
 <br><br><br><br>
 
-##
+## 
+<br>
 2023 © hakanyasar

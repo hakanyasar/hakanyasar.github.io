@@ -22,7 +22,7 @@ I'm an iOS developer. I love solving some kind of problems that occured during d
 <h3 align="center" style="color:#C9D1D9;">blog: <a href="https://medium.com/@hakan17" align="center">medium.com/@hakan17</a> </h3>
 <h3 align="center" style="color:#C9D1D9;">github: <a href="https://github.com/hakanyasar" align="center">github.com/hakanyasar</a> </h3>
 <h3 align="center" style="color:#C9D1D9;">linkedin: <a href="https://www.linkedin.com/in/hkn-yasar/" align="center">linkedin.com/hkn-yasar</a> </h3>
-<h3 align="center" style="color:#C9D1D9;">linkedin: <a href="https://stackoverflow.com/users/11989397/hyasar" align="center">stackoverflow.com/hyasar</a> </h3>
+<h3 align="center" style="color:#C9D1D9;">stackoverflow: <a href="https://stackoverflow.com/users/11989397/hyasar" align="center">stackoverflow.com/hyasar</a> </h3>
 <br><br>
 
 </body>

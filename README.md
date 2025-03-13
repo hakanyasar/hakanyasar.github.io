@@ -19,10 +19,10 @@ I'm an iOS developer. I love solving some kind of problems that occured during d
 <br>
 
 
-<h3 align="center" style="color:#C9D1D9;">blog: <a href="https://github.com/hakanyasar/ios_blog" align="center">blog</a> </h3>
-<h3 align="center" style="color:#C9D1D9;">github: <a href="https://github.com/hakanyasar" align="center">github</a> </h3>
-<h3 align="center" style="color:#C9D1D9;">linkedin: <a href="https://www.linkedin.com/in/hkn-yasar/" align="center">linkedin</a> </h3>
-<h3 align="center" style="color:#C9D1D9;">stackoverflow: <a href="https://stackoverflow.com/users/11989397/hyasar" align="center">stackoverflow</a> </h3>
+<h3 align="center" style="color:#C9D1D9;"><a href="https://github.com/hakanyasar/ios_blog" align="center">blog</a> </h3>
+<h3 align="center" style="color:#C9D1D9;"><a href="https://github.com/hakanyasar" align="center">github</a> </h3>
+<h3 align="center" style="color:#C9D1D9;"><a href="https://www.linkedin.com/in/hkn-yasar/" align="center">linkedin</a> </h3>
+<h3 align="center" style="color:#C9D1D9;"><a href="https://stackoverflow.com/users/11989397/hyasar" align="center">stackoverflow</a> </h3>
 <br><br>
 
 </body>
